@@ -1,14 +1,14 @@
 ---
-title: Post Doc Position
+title: Post Doc Position Available
 author: Package Build
 date: '2025-05-14'
-slug: post-doc-position
+slug: post-doc-position-available
 categories: []
 tags: []
 subtitle: ''
-summary: 'Position available'
+summary: ''
 authors: []
-lastmod: '2025-05-14T20:33:53+03:00'
+lastmod: '2025-05-14T20:38:47+03:00'
 featured: no
 image:
   caption: ''
