@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Turku Hypertension Center # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://www.hypertensioncenter.org/' # Website URL
 
 ############################
 ## LANGUAGE
