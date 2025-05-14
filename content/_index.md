@@ -1,21 +1,20 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-05-14
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Turku Hypertension Center
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Turku Hypertension Center** is a team of scientists at the University of Turku performing multi-disciplinary research ranging from classical epidemiology to multi-omics analysis. In addition to general cardiovascular epidemiology, our research focuses on the epidemiology of hypertension in large scale population cohorts.
   
   - block: collection
     content:
