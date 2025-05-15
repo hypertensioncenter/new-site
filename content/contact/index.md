@@ -37,15 +37,15 @@ sections:
       autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+     # form:
+    #    provider: netlify
+    #    formspree:
+    #      id:
+    #    netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
-    design:
-      columns: '1'
+  #  design:
+  #    columns: '1'
 
   - block: markdown
     content:
