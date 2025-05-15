@@ -25,7 +25,7 @@ title: "Anni Kauko""
 #- name: ""
 #  url: ""
 role: Bioinformatician, InFLAMES
-social:
+#social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'
