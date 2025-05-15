@@ -22,7 +22,7 @@ authors:
 #- Cardiovascular Epidemiology
 #- Hypertension
 #- Multi-omics
-name: Eeva Juhanoja
+title: Eeva Juhanoja
 #organizations:
 #- name: ""
 #  url: ""

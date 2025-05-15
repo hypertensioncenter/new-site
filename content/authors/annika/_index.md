@@ -22,7 +22,7 @@ authors:
 #- Novel BP measurement methods
 #- Hypertension
 #- Multi-omics
-name: Annika Lindroos
+title: Annika Lindroos
 #organizations:
 #- name: ""
 #  url: ""

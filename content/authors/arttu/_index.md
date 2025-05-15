@@ -22,7 +22,7 @@ interests:
 #- Geriatrician
 #- Hypertension
 #- Multi-omics
-name: Arttu Lehtonen
+title: Arttu Lehtonen
 #organizations:
 #- name: ""
 #  url: ""

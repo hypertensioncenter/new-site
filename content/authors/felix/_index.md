@@ -21,7 +21,7 @@ authors:
 #interests:
 #- Genetic and phenotypic clustering of hypertension
 #- Multi-omics
-name: Felix Vaura
+title: Felix Vaura
 #organizations:
 #- name: ""
 #  url: ""

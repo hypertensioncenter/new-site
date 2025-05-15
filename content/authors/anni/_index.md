@@ -20,7 +20,7 @@ authors:
 #email: "tejuni@utu.fi"
 interests:
 #- Multi-omics
-name: Anni Kauko
+title: Anni Kauko
 #organizations:
 #- name: ""
 #  url: ""

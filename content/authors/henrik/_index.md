@@ -22,7 +22,7 @@ interests:
 - Dietary sodium
 #- Hypertension
 #- Multi-omics
-name: Henrik Wistrand
+title: Henrik Wistrand
 #organizations:
 #- name: ""
 #  url: ""
