@@ -40,7 +40,7 @@ social:
 #  link: https://github.com/gcushen
 superuser: true
 user_groups:
-- Principal Investigator
+- Principal Investigators
 ---
 
 Professor Teemu Niiranen, MD, PhD, is a physician-scientist, epidemiologist and a clinical hypertension specialist. His research on hypertension in large population cohorts has led to >200 publications that are cited by the European, American, British, and Japanese clinical hypertension guidelines. These publications include first-author articles in BMJ, Circulation, European Heart Journal, and JAMA Cardiology.
