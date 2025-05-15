@@ -22,7 +22,7 @@ authors:
 - Retirement and blood pressure
 #- Hypertension
 #- Multi-omics
-name: Saana Karelius
+title: "Saana Karelius""
 #organizations:
 #- name: ""
 #  url: ""
