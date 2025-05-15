@@ -19,10 +19,10 @@ authors:
 #    year: 2005
 #email: "tejuni@utu.fi"
 #interests:
-- Retirement and blood pressure
+#- Retirement and blood pressure
 #- Hypertension
 #- Multi-omics
-title: "Saana Karelius""
+title: "Saana Karelius"
 #organizations:
 #- name: ""
 #  url: ""
