@@ -1,0 +1,41 @@
+---
+title: Early onset hypertension is associated with hypertensive end-organ damage already
+  by MidLife
+authors:
+- Karri Suvila
+- Elizabeth L McCabe
+- Arttu Lehtonen
+- Joseph E Ebinger
+- Joao A C Lima
+- Susan Cheng
+- Teemu J Niiranen
+date: '2019-08-01'
+publishDate: '2025-05-15T06:08:54.277656Z'
+publication_types:
+- article-journal
+publication: '*Hypertension*'
+abstract: Early onset hypertension confers increased risk for cardiovascular mortality
+  in the community. Whether early onset hypertension also promotes the development
+  of target end-organ damage (TOD), even by midlife, has remained unknown. We studied
+  2680 middle-aged CARDIA study (Coronary Artery Risk Development in Young Adults)
+  Study participants (mean age 50$±$4 years, 57% women) who underwent up to 8 serial
+  blood pressure measurements between 1985 and 2011 (age range at baseline 18-30 years)
+  in addition to assessments of echocardiographic left ventricular hypertrophy, coronary
+  calcification, albuminuria, and diastolic dysfunction in 2010 to 2011. Age of hypertension
+  onset was defined as the age at first of 2 consecutively attended examinations with
+  blood pressure $≥$140/90 mm Hg or use of antihypertensive medication. Participants
+  were divided in groups by hypertension onset age (<35 years, 35-44 years, $≥$45
+  years, or no hypertension). While adjusting for TOD risk factors, including systolic
+  blood pressure, we used logistic regression to calculate odds ratios for cases (participants
+  with TOD) versus controls (participants without TOD) to examine the relation of
+  hypertension onset age and hypertensive TOD. Compared with normotensive individuals,
+  hypertension onset at age <35 years was related to odds ratios of 2.29 (95% CI,
+  1.36-3.86), 2.94 (95% CI, 1.57-5.49), 1.12 (95% CI, 0.55-2.29), and 2.06 (95% CI,
+  1.04-4.05) for left ventricular hypertrophy, coronary calcification, albuminuria,
+  and diastolic dysfunction, respectively. In contrast, hypertension onset at age
+  $≥$45 years was not related to increased odds of TOD. Our findings emphasize the
+  importance of assessing age of hypertension onset in hypertensive patients to identify
+  high-risk individuals for preventing hypertensive complications.
+tags:
+- blood pressure; cardiovascular diseases; follow-up studies; hypertension; risk factors
+---
