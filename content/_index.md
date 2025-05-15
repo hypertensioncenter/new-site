@@ -9,8 +9,8 @@ sections:
     content:
       title: |
         Turku Hypertension Center
-      image:
-        filename: welcome.jpg
+#      image:
+#        filename: welcome.jpg
       text: |
         <br>
         
