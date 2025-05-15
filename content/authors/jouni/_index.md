@@ -22,7 +22,7 @@ authors:
 #- Cardiovascular Epidemiology
 #- Hypertension
 #- Multi-omics
-name: Jouni Johansson
+title: Jouni Johansson
 #organizations:
 #- name: ""
 #  url: ""

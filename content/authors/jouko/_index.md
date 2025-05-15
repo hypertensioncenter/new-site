@@ -21,7 +21,7 @@ authors:
 interests:
 - Sex differences in risk of cardiovascular disease
 #- Multi-omics
-name: Jouko Nurkkala
+title: Jouko Nurkkala
 #organizations:
 #- name: ""
 #  url: ""

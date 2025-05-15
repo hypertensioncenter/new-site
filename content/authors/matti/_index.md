@@ -22,7 +22,7 @@ interests:
 - Heart failure
 #- Hypertension
 #- Multi-omics
-name: Matti Vuori
+title: Matti Vuori
 #organizations:
 #- name: ""
 #  url: ""

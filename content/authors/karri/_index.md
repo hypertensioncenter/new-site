@@ -20,7 +20,7 @@ authors:
 #email: "tejuni@utu.fi"
 interests:
 - Early-onset hypertension
-name: Karri Suvila
+title: Karri Suvila
 #organizations:
 #- name: ""
 #  url: ""

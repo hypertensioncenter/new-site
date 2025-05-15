@@ -20,7 +20,7 @@ authors:
 #email: "tejuni@utu.fi"
 interests:
 - Microbiome and Infections
-name: Irina Wikki
+title: Irina Wikki
 #organizations:
 #- name: ""
 #  url: ""

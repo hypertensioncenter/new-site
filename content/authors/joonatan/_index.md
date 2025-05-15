@@ -22,7 +22,7 @@ interests:
 - Metabolome
 - Microbiome
 #- Multi-omics
-name: Joonatan Palmu
+title: Joonatan Palmu
 #organizations:
 #- name: ""
 #  url: ""

@@ -22,7 +22,7 @@ interests:
 - Cardiovascular epidemiology
 - Thyroid disease
 #- Multi-omics
-name: Ville Langén
+title: Ville Langén
 #organizations:
 #- name: ""
 #  url: ""

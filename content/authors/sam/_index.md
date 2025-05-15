@@ -22,7 +22,7 @@ interests:
 - Home BP Measurement
 #- Hypertension
 #- Multi-omics
-name: Sam Sivén
+title: Sam Sivén
 #organizations:
 #- name: ""
 #  url: ""
