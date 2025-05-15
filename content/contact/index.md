@@ -20,8 +20,8 @@ sections:
         country: United States
         country_code: FI
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '60.45204888876240'
+        longitude: '22.292464145296783'
       directions: Medisiina A, 4th floor
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
