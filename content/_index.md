@@ -55,18 +55,18 @@ sections:
 #        padding: ['20px', '0', '20px', '0']
 #      css_class: fullscreen
 
-#  - block: collection
-#    content:
-#      title: Latest Publications
-#      text: ""
-#      count: 5
-#      filters:
-#        folders:
-#          - publication
-#        publication_type: 'article-journal'
-#    design:
-#      view: citation
-#      columns: '1'
+  - block: collection
+    content:
+      title: Selected Publications
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article-journal'
+    design:
+      view: citation
+      columns: '1'
 
   - block: markdown
     content:
