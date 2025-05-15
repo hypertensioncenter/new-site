@@ -9,8 +9,8 @@ sections:
     content:
       title: Contact
       text: |-
-        Feel free to contact us!
-      email: tejuni[at]utu.fi
+        Feel free to contact us - teemu.niiranen[at]utu.fi !
+#      email: tejuni[at]utu.fi
 #      phone: 888 888 88 88
       address:
         street: Kiinamyllynkatu 10
