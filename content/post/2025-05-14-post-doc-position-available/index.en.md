@@ -12,30 +12,31 @@ Job Description
 The duties of Postdoctoral Researcher include the analysis of population-level omics data (metagenomics, genomics, metabolomics etc.) aiming at groundbreaking biological discoveries. The key data sources include comprehensively phenotyped human cohorts of up to tens of thousands of participants whose fecal samples have been analyzed in leading laboratories using high-throughput (metagenomic) sequencing. Different project areas related to multi-omics data integration, analysis of longitudinal cohort data, and the discovery of personalized disease biomarkers are available.
 
 Apply between 12 May 2025 and 13 June 2025 16:00 (Europe/Helsinki)
-Who we are looking for
+
 Requirements
 
 A person selected for the position of postdoctoral researcher is required to have a doctoral degree and the ability to do independent scientific work as well as having the necessary teaching skills.
 
 A suitable candidate has:
 
-PhD in Biostatistics, Bioinformatics, Epidemiology, Computational Biology, Computer Science, Biology, or related field
-MD with experience in the above-mentioned fields
-Relevant background knowledge including proven bioinformatics skills and a solid publication track record
-Experience in statistical data analysis, integration, and visualization
-Fluency in at least one data science language (preferably R)
-Ability to work both independently and in a team
-Willingness to learn new and multidisciplinary skills as needed
-Good communication and interpersonal skills and English language skills
-Good scientific writing skills
+-PhD in Biostatistics, Bioinformatics, Epidemiology, Computational Biology, Computer Science, Biology, or related field
+-MD with experience in the above-mentioned fields
+-Relevant background knowledge including proven bioinformatics skills and a solid publication track record
+-Experience in statistical data analysis, integration, and visualization
+-Fluency in at least one data science language (preferably R)
+-Ability to work both independently and in a team
+-Willingness to learn new and multidisciplinary skills as needed
+-Good communication and interpersonal skills and English language skills
+-Good scientific writing skills
+
 We also appreciate the following:
 
-Familiarity with processing metagenomic, metabolomic, and genomic data
-Experience with Linux/Unix environment
-Experience with computing clusters, pipelines of batch jobs or cloud- and high-performance computing
-Experience in open research software development, open science, and outreach
-Experience in cardiometabolic disease research
-We value equality and diversity in our work community and encourage all qualified applicants with different backgrounds to apply for our open positions.
+-Familiarity with processing metagenomic, metabolomic, and genomic data
+-Experience with Linux/Unix environment
+-Experience with computing clusters, pipelines of batch jobs or cloud- and high-performance computing
+-Experience in open research software development, open science, and outreach
+-Experience in cardiometabolic disease research
+-We value equality and diversity in our work community and encourage all qualified applicants with different backgrounds to apply for our open positions.
 
 Benefits
 We are a team of young scientists with a solid track record of successful mentoring, inter-institutional international collaborations in multi-disciplinary research ranging from classical clinical epidemiology to the development of targeted algorithmic data analysis and machine learning methods. Our collaborators for this project come from several top universities in the world, allowing for excellent networking opportunities with leading researchers from a wide spectrum of fields.
@@ -57,15 +58,16 @@ The salary is determined in accordance with the university salary system for tea
 Trial period of 6 months is applied in the position.
 
 How to Apply
-Please submit your application via the electronic application form of the University of Turku by 13 June 2025 at 4 p.m. (Europe/Helsinki) at the latest. A link to the application form is available at the beginning of this announcement (Apply for the job).
+Please submit your application via the electronic application form of the University of Turku by 13 June 2025 at 4 p.m. https://ats.talentadore.com/apply/tutkijatohtori-vaestokohorttien-multiomiikkadata/ZjaRnA?lang=en&UTUID=20883
 
 The application should be written in English and contain:
 
-Cover letter with a brief description of previous research experience, and a motivation to why you are applying (one page)
-CV (max 4 pages)
-List of publications
-Copies of relevant degree certificates
-Contact information of 1-2 references
+-Cover letter with a brief description of previous research experience, and a motivation to why you are applying (one page)
+-CV (max 4 pages)
+-List of publications
+-Copies of relevant degree certificates
+-Contact information of 1-2 references
+
 Further information
 For additional information about the position, please contact Professor Teemu Niiranen (tejuni@utu.fi).
 
