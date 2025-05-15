@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: Projects
 date: 2022-10-24
 
 type: landing
@@ -38,11 +38,11 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+#        link:
+#          icon: graduation-cap
+#          icon_pack: fas
+#          text: Join Us
+#          url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
