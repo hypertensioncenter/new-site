@@ -18,7 +18,7 @@ authors:
 #    institution: University of Turku
 #    year: 2005
 #email: "tejuni@utu.fi"
-interests:
+#interests:
 #- Multi-omics
 title: "Anni Kauko""
 #organizations:
