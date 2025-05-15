@@ -18,22 +18,22 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: FinnGen ☕️
+        content: 'A project with a goal to genotype up to 500 000 unique Finnish blood samples and associate the genetic data with nationwide health records.'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: featured.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: FINRISK multiomics
+        content: 'Studying the interrelations of gut microbiome, plasma metabolome, and genome in the pathophysiology of hypertension.'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: featured_2.jpg
             filters:
               brightness: 0.5
           position: center
