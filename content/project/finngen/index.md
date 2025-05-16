@@ -2,20 +2,20 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: "Finngen"
-summary: ""
+summary: "A project with a goal to genotype up to 500 000 unique Finnish blood samples and associate the genetic data with nationwide health records."
 authors: []
 tags: []
 categories: []
 date: 2025-05-16T13:34:48+03:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.finngen.fi/en"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "A project with a goal to genotype up to 500 000 unique Finnish blood samples and associate the genetic data with nationwide health records.""
   focal_point: ""
   preview_only: false
 
