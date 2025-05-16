@@ -37,22 +37,7 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
   
-  - block: collection
-    content:
-      title: Selected Publications
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article-journal'
-    design:
-      view: citation
-      columns: '1'
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-
-sections:
+  
   - block: portfolio
     id: projects
     content:
@@ -97,6 +82,21 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+  
+  - block: collection
+    content:
+      title: Selected Publications
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article-journal'
+    design:
+      view: citation
+      columns: '1'
       spacing:
         padding: ['20px', '0', '20px', '0']
 
