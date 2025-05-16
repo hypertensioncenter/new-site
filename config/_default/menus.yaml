@@ -5,7 +5,7 @@
 
 main:
   - name: Projects
-    url: tour
+    url: project
     weight: 10
   - name: News
     url: post
