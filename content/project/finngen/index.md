@@ -15,7 +15,7 @@ external_link: "https://www.finngen.fi/en"
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "A project with a goal to genotype up to 500 000 unique Finnish blood samples and associate the genetic data with nationwide health records.""
+  caption: "A project with a goal to genotype up to 500 000 unique Finnish blood samples and associate the genetic data with nationwide health records."
   focal_point: ""
   preview_only: false
 
