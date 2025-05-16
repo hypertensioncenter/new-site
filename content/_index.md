@@ -34,7 +34,8 @@ sections:
     design:
       view: card
       columns: '1'
-      padding: ['0px', '0', '0px', '0']
+      spacing:
+        padding: ['0px', '0', '0px', '0']
   
 #  - block: markdown
 #    content:
@@ -68,7 +69,8 @@ sections:
     design:
       view: citation
       columns: '1'
-      padding: ['0px', '0', '0px', '0']
+      spacing:
+        padding: ['0px', '0', '0px', '0']
 
   - block: markdown
     content:
@@ -78,5 +80,6 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
-      padding: ['0px', '0', '0px', '0']
+      spacing:
+        padding: ['0px', '0', '0px', '0']
 ---
