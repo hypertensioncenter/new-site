@@ -35,7 +35,7 @@ sections:
       view: card
       columns: '1'
       spacing:
-        padding: ['10px', '0', '10px', '0']
+        padding: ['20px', '0', '20px', '0']
   
 #  - block: markdown
 #    content:
@@ -70,7 +70,7 @@ sections:
       view: citation
       columns: '1'
       spacing:
-        padding: ['10px', '0', '10px', '0']
+        padding: ['20px', '0', '20px', '0']
 
   - block: markdown
     content:
@@ -81,5 +81,5 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['10px', '0', '10px', '0']
+        padding: ['20px', '0', '20px', '0']
 ---
