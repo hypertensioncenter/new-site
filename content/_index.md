@@ -95,7 +95,7 @@ sections:
           - publication
         publication_type: 'article-journal'
     design:
-      view: citation
+      view: list
       columns: '1'
       spacing:
         padding: ['20px', '0', '20px', '0']
